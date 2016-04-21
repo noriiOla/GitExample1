@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">studiaZ1(1)</string>
+    <string name="action_settings">Settings</string>
+    <string name="witajUzytkowniku">Witaj uzykowniku Aleksandra plaszczyk !!! :D</string>
+    <string name="tekst2">Przycisk1</string>
+    <string name="tekst3">Przycisk2</string>
+    <string name="title_activity_2">Activity2</string>
+</resources>
