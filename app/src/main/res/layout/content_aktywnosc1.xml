@@ -24,7 +24,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/tekst3"
+        android:text="@string/tekst4"
         android:id="@+id/button1"
         android:layout_gravity="center_horizontal" />
 
